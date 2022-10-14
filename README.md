@@ -14,3 +14,6 @@ Value 값에 {state} 입력.
 
 setState까지 전달하는 방법
 Value 값에 {{state, setState}} 입력.
+
+
+전역적으로 쓰이지는 못하고 지역적이다.
